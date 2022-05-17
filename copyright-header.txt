@@ -1,0 +1,4 @@
+/**!
+@version <%= package.version %>
+@demo
+*/
